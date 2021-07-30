@@ -9,4 +9,5 @@ How can I improve this app?
 - Make a more custom UI and design instead of bootstrap
 - Add vote delegation
 - Add a UI for viewing the blockchain history for the contract
+- Write out good "how to use" instructions for viewers of this repo
 
